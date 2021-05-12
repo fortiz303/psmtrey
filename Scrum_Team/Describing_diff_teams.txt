@@ -1,0 +1,3 @@
+Q: Describe different teams (functional and component teams) and how they hold up when viewed from the perspective of the SG?
+
+A: Component teams have a sequential lifecycle with handoffs, queues, and single-specialist groups and are not true cross-functional teams without handoffs. Feature teams on the other hand have developers that are truly cross-functional, cross component,self managed and can therefore handle any customer requirement. From the Scrum Guide's perspective, Scrum Teams are cross functional and should have all the skills necessary to create value each Sprint. Feature teams enhance those attributes, while component teams do not as single teams do not have all the skills necessary to deliver end-to-end working products within their team. 
